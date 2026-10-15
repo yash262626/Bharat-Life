@@ -3,6 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "description": "BHARAT LIFE - an open-world Indian city life simulator (browser vertical slice)",
+  "license": "MIT",
+  "author": "yash262626",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash262626/India.git"
+  },
+  "homepage": "https://github.com/yash262626/India#readme",
+  "keywords": [
+    "game",
+    "open-world",
+    "three.js",
+    "typescript",
+    "india",
+    "mumbai",
+    "life-simulator"
+  ],
+  "engines": {
+    "node": ">=22.12"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
